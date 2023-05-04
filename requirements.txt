@@ -16,3 +16,4 @@ wordcloud~=1.8.1
 beautifulsoup4~=4.12.2
 requests~=2.29.0
 textblob~=0.17.1
+contractions~=0.1.73
