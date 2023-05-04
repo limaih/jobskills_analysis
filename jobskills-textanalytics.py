@@ -15,7 +15,6 @@ import gensim
 import matplotlib.pyplot as plt
 import matplotlib.colors as mcolors
 import pyLDAvis
-import pyLDAvis.gensim
 
 from wordcloud import WordCloud
 from nltk.tokenize import word_tokenize
